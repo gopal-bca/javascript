@@ -5,10 +5,10 @@
 // arr.splice(0,1);
 // console.log(arr);
 
-// (b)Remove uber & Add Ola in its place
-let arr = ["Bloomberg", "microsoft","Uber","Google","IBM","Netflix"];
-arr.splice(2,1,"Ola");
-console.log(arr);
+// // (b)Remove uber & Add Ola in its place
+// let arr = ["Bloomberg", "microsoft","Uber","Google","IBM","Netflix"];
+// arr.splice(2,1,"Ola");
+// console.log(arr);
 
 // //(c)Add Amezon at the end
 // let arr = ["Bloomberg", "microsoft","Uber","Google","IBM","Netflix"];
