@@ -1,0 +1,1 @@
+//create a function using the "function" keyword that takes astring as an argument & return the number of vowels in the string.
